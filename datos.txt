@@ -1,3 +1,38 @@
 fernando funez
 192.168.1.35
 12.56
+
+
+.
+IPAddress         : 192.168.46.3
+InterfaceIndex    : 10
+InterfaceAlias    : Ethernet 3
+AddressFamily     : IPv4
+Type              : Unicast
+PrefixLength      : 24
+PrefixOrigin      : Manual
+SuffixOrigin      : Manual
+AddressState      : Preferred
+ValidLifetime     :
+PreferredLifetime :
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : 192.168.2.4
+InterfaceIndex    : 14
+InterfaceAlias    : Ethernet
+AddressFamily     : IPv4
+Type              : Unicast
+PrefixLength      : 24
+PrefixOrigin      : Dhcp
+SuffixOrigin      : Dhcp
+AddressState      : Preferred
+ValidLifetime     : 20:14:52
+PreferredLifetime : 20:14:52
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+
+Jonathan Gimenez
+
+16:59
